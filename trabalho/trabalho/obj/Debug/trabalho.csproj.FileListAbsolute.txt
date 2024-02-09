@@ -1,0 +1,7 @@
+C:\Users\eduar\source\repos\trabalho\trabalho\obj\Debug\trabalho.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\trabalho\trabalho\obj\Debug\trabalho.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\trabalho\trabalho\bin\Debug\trabalho.exe.config
+C:\Users\eduar\source\repos\trabalho\trabalho\bin\Debug\trabalho.exe
+C:\Users\eduar\source\repos\trabalho\trabalho\bin\Debug\trabalho.pdb
+C:\Users\eduar\source\repos\trabalho\trabalho\obj\Debug\trabalho.exe
+C:\Users\eduar\source\repos\trabalho\trabalho\obj\Debug\trabalho.pdb
